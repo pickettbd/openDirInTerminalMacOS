@@ -1,0 +1,7 @@
+This is a macOS workflow for right-clicking a folder in Finder and opening a terminal window to that location. This is set up with iTerm2 by default, but you should theoretically be able to change it to another terminal application easily.
+
+Once installed in ~/Library/Services, simply do the following:
+
+	right-click on a folder in Finder -> Services -> Open Directory In Terminal
+
+Please see the LICENSE file.
